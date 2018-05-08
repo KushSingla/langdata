@@ -1,122 +1,601 @@
  
   
-    
-   
-bar:    
-  :  
-  /  /    
-text:    
-till:    
-  -  -    
-     
-at:    
- .   
-  .   
-  %
- . 
-   .   
- , 
-  :  :  
- ,   
-from: 
-       
- /    
-   .   . . 
-till:   
-at:   
- ,  
-  /  
-  ,  
-  /  /  
-  , 
-    -    
-  / /    
-  -  
-      
-  ,   
-   °
-start: 
-ﬆart: 
- .   .   
- - 
-  ,  %
- / 
- :  
-          
- . . 
-MP 
- .  
- %
- ,  %
   . 
-increment:   
-   %
-   ,   
-  /    
-©    
-width:   
-bottom:  
-height:   
-top:  
-left:  
-right:  
   .  
-width:  
-  :  pm
-GMT+ 
-  .  .    
- G
-  , %
-  / 
-  :  am
- /  /    
- :  :  
-T 
- / /    
-   /GP-BC
-increment:    
- ,   ,   
-  °
-  h
- GB
-    -  -  
-# 
- D
-        
- /  
-   ,  
- , %
-mp 
- -  
-  H
+  .   
   .   .   
-S  
-   , 
-  -  -  
+  .   .   .   
+  .   .   đ
+  .   .  .  
+  .    
+  .    .    
+  .        
+  .   Đ
+  .   đ
+  .  .   .   
+  .  .    
+  . %
+  . .    
+   
    -   
-   .  
- x
-  th
-  ,   .  
-  .       
-till:     
-   k
-Mp 
-N  
-+ 
-  -    
-   MB
-km 
+   -   -    
+   -    
+   G
+   GB
+    
+    -  
+    -   -   
+    -    
+    -  -  
+    x   
+    /QĐ-TTg
+    /QĐ-UBND
+    /  
+    /    
+    /  /  
+    /  /    
+    /GP
+    /GP-TTĐT
+    mm
+    m 
+    k
+    .mp 
+    .   
     .   .   
-T    
-A 
-  °C
-text: .   
-  h  
-  -       
+    .   .    
+    .    
+    .      
+    .       
+    .    .   
+    .  .  
+    .  .  .  
+    .  .    
+    |
+     
+      
+       
+        
+         
+          
+          -   
+           
+            
+             
+     .   .   
+    Trịnh
+    Táo
+    Áo
+    :    
+    p
+   / 
+   / A
+   /  
+   /  A
+   /   
+   /    /TT-BTC
+   /    /NĐ-CP
+   /  / 
+   /  /  
+   /  /    
+   /QĐ-TTg
+   /QĐ-UBND
+   /GP
+   /GP-BVHTT
+   /GP-BC
+   /GP-TTĐT
+   M
+   ML
+   M 
+   đ
+   L
+   cm
+   cc
+   v
+   k
+   kb
+   kbps
+   kV
+   k/đêm
+   kg
+   km
+   , 
+   ,  
+   ,   
+   ,   ,   
+   ,   Đ
+   ,   đ
+   V
+   . 
+   .  
+   .   
+   .   .   
+   .   .    
+   .   Đ
+   .       
+   .    .   
+   .   đ
+   $
+   m
+   m 
+   ml
+   mm
+   mg
+   A
+   i
+   w
+   %
+   x   
+   K
+   KB
+   KBPS
+   doc
+   W
+   p
+   g
+   gr
+   tr
+   C
+   B
+   D
+  / 
+  /  
+  /  A
+  /   
+  /    
+  /    /TT-BXD
+  /    /TT-BGDĐT
+  /    /TT-BTC
+  /    /QĐ-TTg
+  /    /QĐ-UBND
+  /    /QH  
   /    /NĐ-CP
-till: 
-   .      
-at: 
+  /  / 
+  /  /  
+  /  /    
+  / A
+  / /  
+  / /    
+  /HĐ-SMS/    
+  /GXN-TTĐT
+  /GP
+  /GP-TTĐT
+  v
+  bit
+  oC
+  C
+  CM
+  a
+  M
+  MM
+  MB
+  M 
+  T
+  -NQ/TW
+  - 
+  -  
+  -   
+  -    
+  -    -    
+  -        
+  -  %
+  -  -  
+  -  -    
+  - -    
+  -CT/TW
+  h
+  ha
+  h  
+  g
+  gb
+  g  
+  w
+  m
+  mg
+  mm
+  ml
+  m 
+  , 
+  ,  
+  ,  %
+  ,   
+  ,   ,   
+  ,   ,   đ
+  ,   đ
+  , %
+  B
+  k
+  km
+  kg
+  K
+  ⁄ 
+  x
+  x  
+  D
+  L
+  : 
+  :  
+  :  :  
+  V
+  A
+  A 
+  t
+  tr
+  th
+  W
+  +
+  %
+  Phường
+  c
+  cm
+  G
+  GB
+  S.VN
+  H
+  H  
+  p
+  s
+  s.vn
+ , 
+ ,  
+ ,  m
+ ,   
+ ,   ,   
+ ,   ,   đ
+ ,  %
+ , M
+ , kg
+ , , 
+ , %
+ , m
+ Õ
+ T
+ TR
+ TM
+ i
+ Ó
+ Q
+ â
+ Š
+ ò
+ ì
+ Ò
+ ó
+ q
+ Â
+ è
+ `
+ š
+ H
+ H  
+ ù
+ ÿ
+ . 
+ .  
+ .   
+ .   m 
+ .    
+ .              
+ .    .   
+ .   .   
+ .   .   đ
+ .   .   Đ
+ .   .   .   
+ .   đ
+ .   đ/ngày
+ . m
+ . mm
+ . /  
+ . . 
+ . . . 
+ . %
+ . L
+ ... 
+ õ
+ Ú
+ í
+ ø
+ ñ
+ #
+ ã
+ Ù
+ Í
+ È
+ À
+ ê
+ g
+ gb
+ gp
+ á
+ ˆ
+ ï
+ |
+ œ
+ m
+ ml
+ m 
+ m  
+ mm
+ Œ
+ K
+ é
+ / 
+ /  
+ /  /  
+ /  /    
+ /   
+ /    
+ / /  
+ / /    
+ W
+ B
+ ®
+ t
+ tr
+ tr 
+ k
+ kg
+ km
+ k 
+ Ô
+ v
+ viec.com
+ V
+ y
+ +
+ + 
+ S
+ - 
+ -  
+ -    
+ -  -    
+ - - 
  - -    
+ O
+ s
+ ä
+ %
+ Ì
+ D
+ >
+ x
+ xx
+ x 
+ x  
+ x  m
+ c
+ cm
+ đ
+ X
+ ⁄ 
+ ⁄  
+ Ý
+ E
+ : 
+ :  
+ :  :  
+ Ÿ
+ U
+ Ñ
+ ô
+ z
+ Ð
+ ý
+ A
+ A 
+ Ø
+ G
+ GB
+ ú
+ Ä
+ w
+ p
+ É
+ C
+ ð
+ ö
+ h
+ h  
+ a
+ <
+ Ï
+ u
+ o
+ Á
+ M
+ MB
+ e
+ Ã
+ £
+ L
+ Ö
+ P
+ Phường
+ F
+ d
+ °
+ b
+ $
+ €
+ à
+ N
+ ©
+ =
+ n
+ ¬
+ l
+ ƒ
+TAHOMA 
+TAINHACMP .VN
+Tahoma 
+TaiNhacMp .VN
+T 
+T  
+T   
+THVL 
+Y 
+B 
+B  
+B   
+À 
+GMT+ 
+G 
+G  
+G   
+G    
+I 
+X 
+X  
+C 
+C  
+C   
+C    
+C     
+CT 
+CO 
+CR 
+Copyright©    
+H 
+H N 
+H  
+H   
+HNO 
+HH 
+HTV 
+N 
+N  
+Neue 
+NH 
+M 
+M  
+M   
+M    
+Megafun    >Cuộc
+MP 
+Mozilla/ . 
+Mp 
+O 
+W 
+SID     
+SANS-SERIF 
+S 
+S  
+S   
+Sans 
+Roboto 
+R 
+R  
+E 
+E  
+E   
+U  
+L 
+Arial 
+A 
+A  
+A   
+A    
+Kenh  .vn
+K 
+K  
+P. 
+P.  
+PL.    
+P 
+P  
+P   
+P    
+Zin x.Mobi
+Z 
+| 
+% 
+©    
+©    -    
+> 
++(  
++ 
++ điểm
++  
+D 
+D  
+D   
+D    
+Q 
+Q  
+Q. 
+Q.  
+V 
+V  
+V   
+VTVCab 
+VTV 
+Verdana 
+= 
+F 
+F  
+F   
+F     
+FontAwesome 
+Điểm:  
+Điểm:   
+< 
+J 
+# 
+#  
+#   
+#    
+#     
+#      
+#   k
+Ø 
+$ 
+$ ⁄ 
+` 
+€ 
+t 
+triệu/m 
+tahoma 
+o 
+u  
+cuối:  /  /    
+c 
+cập 
+r 
+e 
+m 
+mp 
+arial 
+a 
+n 
+p 
+g 
+grande 
+sans-serif 
+s 
+s  
+l 
+hàng 
+h 
+ip:  .   .  .  
+i 
+i  
+v 
 v . 
+v  
+j 
+y 
+d 
+q 
+q  
+áo p
+xi 
+xi +¿U
+x 
+x  
+km 
+k 
+ó 
+b 
+f 
+z 
+œ 
+ò 

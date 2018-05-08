@@ -1,18 +1,25 @@
-    
-at:    
-frompos:  
-  
-tillpos:  
-   
  
-# .  %
-# 
+  
   :  
-tillpos:   
-bar: 
+   
+    
   .  .    
-text: 
+TILLPOS:  
+TILLPOS:   
+AT:    
+BAR: 
+# 
+# .  %
 #  
-width: 
-text: . 
+left:  
+from:    
+frompos:  
+tillpos:  
+tillpos:   
 till:    
+text: 
+text: . 
+at:    
+bar: 
+width: 
+width:   

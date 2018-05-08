@@ -1,55 +1,67 @@
+ 
   
    
-    
- 
-  :  
-width: 
-color:gray 
- .   
-  , 
-  .  .    
-bar:   
-  :  :  
-  .   
- :  
- ,   
-     
-B  
-  ,  
-#  
-  °
- , 
-#    
- ,  
- . 
-  /  /    
-width:   
-bottom:  
-right:  
-left:  
-start:    
-ﬆart:    
-top:  
-height:   
-till:    
-from:    
-increment:  
-id:gray 
-bar: 
-   .   
-# 
-  %
- D
- .  
-  .  
-#   
-      
-bar:    
-    -    
-+ .  
-   ,  
-  -  
-  . 
-#    / 
- ,  %
    .  
+   .   
+   ,  
+    
+    -    
+     
+      
+  -  
+  , 
+  ,  
+  :  
+  :  :  
+  . 
+  .  
+  .   
+  .  .    
+  /  /    
+  %
+ , 
+ ,  
+ ,  %
+ ,   
+ :  
+ . 
+ .  
+ .   
+ D
+START:    
+INCREMENT:  
+ID:GRAY 
+LEFT:  
+HEIGHT:   
+BOTTOM:  
+BAR: 
+BAR:   
+RIGHT:  
+TILL:    
+TOP:  
+COLOR:GRAY 
+FROM:    
+# 
+#  
+#   
+#    
+#    / 
+WIDTH: 
+WIDTH:   
++ .  
+start:    
+from:    
+height:   
+right:  
+top:  
+till:    
+color:gray 
+id:gray 
+increment:  
+left:  
+bar: 
+bar:   
+bar:    
+bottom:  
+width: 
+width:   
